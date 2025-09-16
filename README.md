@@ -15,3 +15,17 @@ HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hip
 1. ~~***Archivos HTML:***~~ Los navegadores web leen archivos con extensión .html o .htm. 
 2. ***Interpretación del navegador:*** El navegador interpreta las etiquetas y atributos de estos archivos para renderizar el contenido de la página web para el usuario. 
 3. ***Estandarización:*** Es un lenguaje descriptivo y textual, lo que permite que todos los navegadores puedan interpretarlo de manera uniforme. 
+
+**Ejemplo de pagina HTML**
+
+```html
+<html>
+<head>
+</head>
+```
+
+<body>
+  Hola Mundo
+</body>
+</html>
+```
