@@ -1,6 +1,6 @@
 # Apuntes de HTML del curso 2025-26
 
-![imagen de fondo](imagen para una port.png)
+![imagen de fondo](imagen_prueba.png)
 
 
 HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hipertexto), es el lenguaje estándar para estructurar el contenido de las páginas web, definiendo elementos como texto, imágenes, enlaces y tablas a través de etiquetas o marcas. Se encarga de la estructura y el contenido de un sitio web, mientras que CSS se encarga de su estilo y JavaScript de su funcionalidad. Componentes principales de HTML
